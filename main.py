@@ -16,6 +16,6 @@ def consecutive_sum(n, m, array):
 
 
 if __name__ == "__main__":
-	min_sum = consecutive_sum2( 4, 5, [5,6,2,1,9] )
+	min_sum = consecutive_sum( 3, 5, [5,6,2,1,9] )
 	print( min_sum )
 
